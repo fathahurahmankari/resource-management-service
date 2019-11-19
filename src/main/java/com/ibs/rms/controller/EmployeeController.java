@@ -37,7 +37,7 @@ public class EmployeeController {
         skil1.setSkillId("1");
         skil1.setSkillName(SkillName.JAVA);
         skil1.setVersion("8");
-        skil1.setProficiency(Proficiency.INTERMEDIATE);
+        skil1.setProficiency(Proficiency.PROFICIENT);
         skil1.setLastUsed(new Date());
         Experience experience1 = new Experience();
         experience1.setYear(2);
